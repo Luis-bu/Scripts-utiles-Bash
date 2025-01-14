@@ -1,2 +1,2 @@
 # Scripts-utiles-Bash
-Mini proyecto con Scripts útiles en linea de comandos
+Mini proyecto con Scripts útiles y sencillos en linea de comandos.
